@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://am1145cse:Ankit123%40@cluster0.venzvjb.mongodb.net/netgo"
+const connectionString = ""
 const dbName = "netflix"
 const colName = "watchlist"
 
